@@ -6,7 +6,7 @@ The repository currently contains a completed SwiftUI project called 'SwiftUIMap
 
 **Pre-requisites**
 - Xcode
-The Integrated Development Environment (IDE) required for development in iOS using UIKit and Swift is Xcode.
+The Integrated Development Environment (IDE) required for development in iOS.
 
 Xcode is available for free from the Apple app store or developer website.
 
